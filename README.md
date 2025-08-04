@@ -1,1 +1,4 @@
-# Chest-X-ray-project
+# 흉부 X-ray 판독문 생성 및 Medical Reasoning 시스템 개발
+
+## 프로젝트 개요
+위 프로젝트는 흉부 X-ray 영상으로부터 "의료 판독문을 자동으로 생성"하고, 생성된 판독문과 환자의 정보(나이/성별)을 기반으로 "질병 추론 및 검사 추천(Medical Resoning)
